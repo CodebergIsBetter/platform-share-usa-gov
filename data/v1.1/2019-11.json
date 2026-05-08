@@ -1,0 +1,4520 @@
+[
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597798,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 8968571
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597799,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7302685
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597800,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6947976
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597801,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 2815160
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597802,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 332228
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597803,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 224003
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597804,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 17454
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597805,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3826
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597806,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3452
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597807,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2056
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597808,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1369
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597809,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1130
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597810,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 671
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597811,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 607
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597812,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 217
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597813,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 167
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54597814,
+    "date": "2019-11-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 134
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561260,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 9802001
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561261,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 9272564
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561262,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 7348479
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561263,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 2864592
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561264,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 369841
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561265,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 227760
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561266,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 17612
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561267,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3878
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561268,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3631
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561269,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2010
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561270,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1255
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561271,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1011
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561272,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 695
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561273,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 658
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561274,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 175
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561275,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 159
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54561276,
+    "date": "2019-11-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 107
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491523,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7631952
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491524,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 6979966
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491525,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6344465
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491526,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 2227483
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491527,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 352150
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491528,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 167923
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491529,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 17999
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491530,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3671
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491531,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3268
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491532,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2238
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491533,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1058
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491534,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 893
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491535,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 739
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491536,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 493
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491537,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 205
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491538,
+    "date": "2019-11-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 123
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421951,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 15555102
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421952,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 10318164
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421953,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8185225
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421954,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3577578
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421955,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 391263
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421956,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 300241
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421957,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 18961
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421958,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4546
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421959,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 4030
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421960,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2349
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421961,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1310
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421962,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1096
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421963,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 792
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421964,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 620
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421965,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 231
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421966,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 147
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54421967,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo 3DS",
+    "visits": 107
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54491539,
+    "date": "2019-11-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 105
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335175,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 19072602
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335176,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11002867
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335177,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8627410
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335178,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4331149
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335179,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 565365
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335180,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 417833
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335181,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 20265
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335182,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4579
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335183,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 4113
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335184,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2487
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335185,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1408
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335186,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1152
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335187,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 687
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335188,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 667
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335189,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 204
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335190,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 173
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335191,
+    "date": "2019-11-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo 3DS",
+    "visits": 107
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273483,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 19828660
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273484,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11041110
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273485,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8616599
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273486,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4657242
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273487,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 659772
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273488,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 425573
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273489,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 18818
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273490,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4214
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273491,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 4005
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273492,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2310
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273493,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1337
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273494,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1006
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273495,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 702
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273496,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 575
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273497,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 180
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273498,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 121
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54273499,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 112
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54335192,
+    "date": "2019-11-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo WiiU",
+    "visits": 101
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237191,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 8026524
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237192,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 7530091
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237193,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6316653
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237194,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3186091
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237195,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 333070
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237196,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 263390
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237197,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 18575
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237198,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3711
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237199,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3095
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237200,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2103
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237201,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1232
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237202,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 962
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237203,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 646
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237204,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 465
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237205,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 128
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54237206,
+    "date": "2019-11-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 112
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162270,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 8584861
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162271,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7403522
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162272,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6839393
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162273,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 2733394
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162274,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 338096
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162275,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 208274
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162276,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 17256
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162277,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3777
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162278,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3438
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162279,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2200
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162280,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1340
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162281,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 962
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162282,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 581
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162283,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 499
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162284,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 162
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162285,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 125
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162286,
+    "date": "2019-11-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo WiiU",
+    "visits": 108
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093292,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 16230908
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093293,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 10042900
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093294,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 7667890
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093295,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3758561
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093296,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 710413
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093297,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 401228
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093298,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 18923
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093299,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3820
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093300,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3649
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093301,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2181
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093302,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1303
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093303,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 987
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093304,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 667
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093305,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 541
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093306,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 168
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54093307,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 141
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54162287,
+    "date": "2019-11-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo WiiU",
+    "visits": 103
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019973,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 19239362
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019974,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11202525
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019975,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8595556
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019976,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4526710
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019977,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 902413
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019978,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 421616
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019979,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 20241
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019980,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4371
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019981,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3998
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019982,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2324
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019983,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1304
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019984,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1080
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019985,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 739
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019986,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 593
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019987,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 180
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019988,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 154
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019989,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 110
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 54019990,
+    "date": "2019-11-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 104
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943131,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 19742838
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943132,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11341615
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943133,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8718611
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943134,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4747755
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943135,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 901012
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943136,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 420838
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943137,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 20948
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943138,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4605
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943139,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3995
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943140,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2315
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943141,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1326
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943142,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1123
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943143,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 747
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943144,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 596
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943145,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 191
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53943146,
+    "date": "2019-11-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 144
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847671,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 20165091
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847672,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 10860814
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847673,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8554265
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847674,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4856209
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847675,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 919900
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847676,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 429329
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847677,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 20284
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847678,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4520
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847679,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3740
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847680,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2144
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847681,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1296
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847682,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 981
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847683,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 750
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847684,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 547
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847685,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 186
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53847686,
+    "date": "2019-11-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 145
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817416,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 20171905
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817417,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 10642517
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817418,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8397259
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817419,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4903742
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817420,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 886436
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817421,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 408377
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817422,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 19064
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817423,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4406
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817424,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3969
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817425,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2271
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817426,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1219
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817427,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 919
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817428,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 702
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817429,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 547
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817430,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 165
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817431,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 144
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53817432,
+    "date": "2019-11-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 109
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762862,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7951724
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762863,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 7231350
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762864,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6210279
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762865,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3202761
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762866,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 315562
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762867,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 281634
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762868,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 18879
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762869,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3751
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762870,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 2939
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762871,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2064
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762872,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1224
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762873,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 862
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762874,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 749
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762875,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 415
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762876,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 144
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53762877,
+    "date": "2019-11-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 119
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686383,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 8339655
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686384,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7349249
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686385,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6763781
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686386,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 2698510
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686387,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 319084
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686388,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 212769
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686389,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 17134
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686390,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3875
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686391,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3296
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686392,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2161
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686393,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1313
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686394,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 836
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686395,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 763
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686396,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 536
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686397,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 143
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53686398,
+    "date": "2019-11-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 131
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618960,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 16228979
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618961,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 10166489
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618962,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 7881743
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618963,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3753334
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618964,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 749481
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618965,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 406921
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618966,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 19219
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618967,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4244
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618968,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3508
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618969,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2285
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618970,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1266
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618971,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1010
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618972,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 738
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618973,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 606
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618974,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 176
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53618975,
+    "date": "2019-11-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 154
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532075,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 19647067
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532076,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11407288
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532077,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8726725
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532078,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4643266
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532079,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 900236
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532080,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 424376
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532081,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 19180
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532082,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4412
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532083,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3996
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532084,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2312
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532085,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1255
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532086,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1036
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532087,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 740
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532088,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 600
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532089,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 183
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53532090,
+    "date": "2019-11-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 163
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468050,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 20056795
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468051,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11111125
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468052,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8753633
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468053,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4794490
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468054,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 877148
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468055,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 419421
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468056,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 20497
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468057,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4934
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468058,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3935
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468059,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2350
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468060,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1203
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468061,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1063
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468062,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 668
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468063,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 596
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468064,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 163
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53468065,
+    "date": "2019-11-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 126
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389383,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 20739889
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389384,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11829139
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389385,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 9156003
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389386,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5011475
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389387,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 848219
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389388,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 428634
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389389,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 22717
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389390,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4907
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389391,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 4137
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389392,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2361
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389393,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1304
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389394,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1139
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389395,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 733
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389396,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 666
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389397,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 212
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389398,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 150
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389399,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 126
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53389400,
+    "date": "2019-11-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo WiiU",
+    "visits": 106
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53345996,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 16432366
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53345997,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 9914197
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53345998,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8053967
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53345999,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4566127
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346000,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 629625
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346001,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 414939
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346002,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 19850
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346003,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4827
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346004,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3946
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346005,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2568
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346006,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1357
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346007,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1152
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346008,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 735
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346009,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 609
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346010,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 196
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346011,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 141
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346012,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo WiiU",
+    "visits": 106
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53346013,
+    "date": "2019-11-11",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 109
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306501,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7735965
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306502,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 7454443
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306503,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6333665
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306504,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3074411
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306505,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 316709
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306506,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 255801
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306507,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 17528
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306508,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4324
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306509,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3221
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306510,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2179
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306511,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1231
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306512,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 869
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306513,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 684
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306514,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 437
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306515,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 151
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306516,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 133
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53306517,
+    "date": "2019-11-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 104
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235780,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 8281943
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235781,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7192483
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235782,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6704354
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235783,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 2618321
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235784,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 319089
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235785,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 203753
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235786,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 17448
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235787,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 3912
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235788,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3425
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235789,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2180
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235790,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1255
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235791,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1097
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235792,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 770
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235793,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 477
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235794,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 150
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235795,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 133
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53235796,
+    "date": "2019-11-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo WiiU",
+    "visits": 108
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155827,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 16013937
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155828,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 9994326
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155829,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 7749234
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155830,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3715666
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155831,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 684032
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155832,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 409087
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155833,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 18107
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155834,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4369
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155835,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3750
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155836,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2287
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155837,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1116
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155838,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 987
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155839,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 729
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155840,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 590
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155841,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 169
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53155842,
+    "date": "2019-11-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 148
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072264,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 19386615
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072265,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11089673
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072266,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8627677
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072267,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4506601
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072268,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 832478
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072269,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 426787
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072270,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 20990
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072271,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4760
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072272,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 4085
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072273,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2341
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072274,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1261
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072275,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1043
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072276,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 786
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072277,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 654
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072278,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 168
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072279,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 159
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072280,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 123
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53072281,
+    "date": "2019-11-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nintendo WiiU",
+    "visits": 108
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007082,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 19831317
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007083,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 11015690
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007084,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8690423
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007085,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4657339
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007086,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 838888
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007087,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 427400
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007088,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 19882
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007089,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4785
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007090,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 4133
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007091,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2345
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007092,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1135
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007093,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1039
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007094,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 763
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007095,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 595
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007096,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 192
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007097,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 188
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 53007098,
+    "date": "2019-11-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 120
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922090,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 21452596
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922091,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 10935412
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922092,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 9100434
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922093,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4933998
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922094,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 783573
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922095,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 431171
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922096,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 21459
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922097,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4881
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922098,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 4187
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922099,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2414
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922100,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1207
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922101,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1107
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922102,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 763
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922103,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 567
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922104,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 202
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922105,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 177
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52922106,
+    "date": "2019-11-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 118
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850559,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 21964827
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850560,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 10909601
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850561,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 9128692
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850562,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5062128
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850563,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 811549
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850564,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 431824
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850565,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 20404
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850566,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4910
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850567,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 4165
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850568,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2341
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850569,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1267
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850570,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1027
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850571,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 757
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850572,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 529
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850573,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 203
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52850574,
+    "date": "2019-11-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 172
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809147,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 9041675
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809148,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 7600271
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809149,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 6798261
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809150,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3356459
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809151,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 353539
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809152,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 276716
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809153,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 20790
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809154,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4345
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809155,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3377
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809156,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2071
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809157,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1265
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809158,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 950
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809159,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 717
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809160,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 436
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809161,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 175
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52809162,
+    "date": "2019-11-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 148
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737114,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 8315423
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737115,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7870883
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737116,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 7049770
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737117,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 2716272
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737118,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 350092
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737119,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 206447
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737120,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 18996
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737121,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4219
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737122,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3526
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737123,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2335
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737124,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1208
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737125,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 937
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737126,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 743
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737127,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 483
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737128,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 131
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52737129,
+    "date": "2019-11-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 116
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664778,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 16141519
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664779,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 9980230
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664780,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 7883235
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664781,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3712458
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664782,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 635143
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664783,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 408051
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664784,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 19085
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664785,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 4407
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664786,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 3868
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664787,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 2342
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664788,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 1242
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664789,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 1025
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664790,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 781
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664791,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 628
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664792,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 179
+  },
+  {
+    "notice": "v1 is being deprecated. Use v2 instead. See https://analytics.usa.gov/developer",
+    "id": 52664793,
+    "date": "2019-11-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 150
+  }
+]

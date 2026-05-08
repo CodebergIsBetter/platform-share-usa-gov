@@ -1,0 +1,5482 @@
+[
+  {
+    "id": 30186591,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 15171804
+  },
+  {
+    "id": 30186592,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 8518885
+  },
+  {
+    "id": 30186593,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8413078
+  },
+  {
+    "id": 30186594,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3994969
+  },
+  {
+    "id": 30186595,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1192537
+  },
+  {
+    "id": 30186596,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 318155
+  },
+  {
+    "id": 30186597,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 32520
+  },
+  {
+    "id": 30186598,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1471
+  },
+  {
+    "id": 30186599,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 825
+  },
+  {
+    "id": 30186600,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 633
+  },
+  {
+    "id": 30186601,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 476
+  },
+  {
+    "id": 30186602,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 421
+  },
+  {
+    "id": 30186603,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 406
+  },
+  {
+    "id": 30186604,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 400
+  },
+  {
+    "id": 30186605,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 323
+  },
+  {
+    "id": 30186606,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 304
+  },
+  {
+    "id": 30186607,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 294
+  },
+  {
+    "id": 30186608,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 244
+  },
+  {
+    "id": 30186609,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 132
+  },
+  {
+    "id": 30186610,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 121
+  },
+  {
+    "id": 30186611,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 114
+  },
+  {
+    "id": 30186612,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 90
+  },
+  {
+    "id": 30186613,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 76
+  },
+  {
+    "id": 30186614,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 61
+  },
+  {
+    "id": 30186615,
+    "date": "2024-06-30",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 58
+  },
+  {
+    "id": 30136556,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 16863957
+  },
+  {
+    "id": 30136557,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8871810
+  },
+  {
+    "id": 30136558,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 8064609
+  },
+  {
+    "id": 30136559,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3532598
+  },
+  {
+    "id": 30136560,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1142161
+  },
+  {
+    "id": 30136561,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 296399
+  },
+  {
+    "id": 30136562,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 31081
+  },
+  {
+    "id": 30136563,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1263
+  },
+  {
+    "id": 30136564,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 849
+  },
+  {
+    "id": 30136565,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 663
+  },
+  {
+    "id": 30136566,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 558
+  },
+  {
+    "id": 30136567,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 457
+  },
+  {
+    "id": 30136568,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 450
+  },
+  {
+    "id": 30136569,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 400
+  },
+  {
+    "id": 30136570,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 323
+  },
+  {
+    "id": 30136571,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 321
+  },
+  {
+    "id": 30136572,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 296
+  },
+  {
+    "id": 30136573,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 271
+  },
+  {
+    "id": 30136574,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 128
+  },
+  {
+    "id": 30136575,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 116
+  },
+  {
+    "id": 30136576,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 92
+  },
+  {
+    "id": 30136577,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 88
+  },
+  {
+    "id": 30136578,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 77
+  },
+  {
+    "id": 30136579,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 71
+  },
+  {
+    "id": 30136580,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "MOT",
+    "visits": 64
+  },
+  {
+    "id": 30136581,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 63
+  },
+  {
+    "id": 30136582,
+    "date": "2024-06-29",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 52
+  },
+  {
+    "id": 30072542,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 19305664
+  },
+  {
+    "id": 30072543,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 17725186
+  },
+  {
+    "id": 30072544,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 9902622
+  },
+  {
+    "id": 30072545,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5001070
+  },
+  {
+    "id": 30072546,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1357490
+  },
+  {
+    "id": 30072547,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 375965
+  },
+  {
+    "id": 30072548,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 40390
+  },
+  {
+    "id": 30072549,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1082
+  },
+  {
+    "id": 30072550,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 913
+  },
+  {
+    "id": 30072551,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 775
+  },
+  {
+    "id": 30072552,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 619
+  },
+  {
+    "id": 30072553,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 466
+  },
+  {
+    "id": 30072554,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 427
+  },
+  {
+    "id": 30072555,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 353
+  },
+  {
+    "id": 30072556,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 339
+  },
+  {
+    "id": 30072557,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 320
+  },
+  {
+    "id": 30072558,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 300
+  },
+  {
+    "id": 30072559,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 274
+  },
+  {
+    "id": 30072560,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 132
+  },
+  {
+    "id": 30072561,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 119
+  },
+  {
+    "id": 30072562,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 93
+  },
+  {
+    "id": 30072563,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 86
+  },
+  {
+    "id": 30072564,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 75
+  },
+  {
+    "id": 30072565,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 63
+  },
+  {
+    "id": 30072566,
+    "date": "2024-06-28",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "MOT",
+    "visits": 54
+  },
+  {
+    "id": 30004481,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 20222273
+  },
+  {
+    "id": 30004482,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 19487565
+  },
+  {
+    "id": 30004483,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10578799
+  },
+  {
+    "id": 30004484,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5505657
+  },
+  {
+    "id": 30004485,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1447800
+  },
+  {
+    "id": 30004486,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 416252
+  },
+  {
+    "id": 30004487,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 44587
+  },
+  {
+    "id": 30004488,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1044
+  },
+  {
+    "id": 30004489,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 784
+  },
+  {
+    "id": 30004490,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 749
+  },
+  {
+    "id": 30004491,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 574
+  },
+  {
+    "id": 30004492,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 440
+  },
+  {
+    "id": 30004493,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 389
+  },
+  {
+    "id": 30004494,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 360
+  },
+  {
+    "id": 30004495,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 351
+  },
+  {
+    "id": 30004496,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 305
+  },
+  {
+    "id": 30004497,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 304
+  },
+  {
+    "id": 30004498,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 251
+  },
+  {
+    "id": 30004499,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 141
+  },
+  {
+    "id": 30004500,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 124
+  },
+  {
+    "id": 30004501,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 101
+  },
+  {
+    "id": 30004502,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 85
+  },
+  {
+    "id": 30004503,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 77
+  },
+  {
+    "id": 30004504,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 71
+  },
+  {
+    "id": 30004505,
+    "date": "2024-06-27",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 55
+  },
+  {
+    "id": 29936728,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 21117097
+  },
+  {
+    "id": 29936729,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 20630685
+  },
+  {
+    "id": 29936730,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10579857
+  },
+  {
+    "id": 29936731,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5787674
+  },
+  {
+    "id": 29936732,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1413479
+  },
+  {
+    "id": 29936733,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 442688
+  },
+  {
+    "id": 29936734,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 57368
+  },
+  {
+    "id": 29936735,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1058
+  },
+  {
+    "id": 29936736,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 902
+  },
+  {
+    "id": 29936737,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 769
+  },
+  {
+    "id": 29936738,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 690
+  },
+  {
+    "id": 29936739,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 482
+  },
+  {
+    "id": 29936740,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 388
+  },
+  {
+    "id": 29936741,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 375
+  },
+  {
+    "id": 29936742,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 309
+  },
+  {
+    "id": 29936743,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 295
+  },
+  {
+    "id": 29936744,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 258
+  },
+  {
+    "id": 29936745,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 231
+  },
+  {
+    "id": 29936746,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 118
+  },
+  {
+    "id": 29936747,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 101
+  },
+  {
+    "id": 29936748,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 94
+  },
+  {
+    "id": 29936749,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 88
+  },
+  {
+    "id": 29936750,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 79
+  },
+  {
+    "id": 29936751,
+    "date": "2024-06-26",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 69
+  },
+  {
+    "id": 29867666,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22444801
+  },
+  {
+    "id": 29867667,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 20649052
+  },
+  {
+    "id": 29867668,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11044631
+  },
+  {
+    "id": 29867669,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6013554
+  },
+  {
+    "id": 29867670,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1392142
+  },
+  {
+    "id": 29867671,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 446681
+  },
+  {
+    "id": 29867672,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 49102
+  },
+  {
+    "id": 29867673,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1147
+  },
+  {
+    "id": 29867674,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 876
+  },
+  {
+    "id": 29867675,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 706
+  },
+  {
+    "id": 29867676,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 698
+  },
+  {
+    "id": 29867677,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 468
+  },
+  {
+    "id": 29867678,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 462
+  },
+  {
+    "id": 29867679,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 387
+  },
+  {
+    "id": 29867680,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 367
+  },
+  {
+    "id": 29867681,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 343
+  },
+  {
+    "id": 29867682,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 303
+  },
+  {
+    "id": 29867683,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 281
+  },
+  {
+    "id": 29867684,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 145
+  },
+  {
+    "id": 29867685,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 119
+  },
+  {
+    "id": 29867686,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 100
+  },
+  {
+    "id": 29867687,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 96
+  },
+  {
+    "id": 29867688,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 95
+  },
+  {
+    "id": 29867689,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 88
+  },
+  {
+    "id": 29867690,
+    "date": "2024-06-25",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 60
+  },
+  {
+    "id": 29797983,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22153302
+  },
+  {
+    "id": 29797984,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 20959142
+  },
+  {
+    "id": 29797985,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11257460
+  },
+  {
+    "id": 29797986,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6131741
+  },
+  {
+    "id": 29797987,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1248669
+  },
+  {
+    "id": 29797988,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 461394
+  },
+  {
+    "id": 29797989,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 42642
+  },
+  {
+    "id": 29797990,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 994
+  },
+  {
+    "id": 29797991,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 853
+  },
+  {
+    "id": 29797992,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 649
+  },
+  {
+    "id": 29797993,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 603
+  },
+  {
+    "id": 29797994,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 390
+  },
+  {
+    "id": 29797995,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 374
+  },
+  {
+    "id": 29797996,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 226
+  },
+  {
+    "id": 29797997,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 217
+  },
+  {
+    "id": 29797998,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 189
+  },
+  {
+    "id": 29797999,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 166
+  },
+  {
+    "id": 29798000,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 115
+  },
+  {
+    "id": 29798001,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 97
+  },
+  {
+    "id": 29798002,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 63
+  },
+  {
+    "id": 29798003,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 59
+  },
+  {
+    "id": 29798004,
+    "date": "2024-06-24",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 52
+  },
+  {
+    "id": 29747943,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 14506762
+  },
+  {
+    "id": 29747944,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 8597282
+  },
+  {
+    "id": 29747945,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8547890
+  },
+  {
+    "id": 29747946,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3841550
+  },
+  {
+    "id": 29747947,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 966689
+  },
+  {
+    "id": 29747948,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 318327
+  },
+  {
+    "id": 29747949,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 37357
+  },
+  {
+    "id": 29747950,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1064
+  },
+  {
+    "id": 29747951,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 822
+  },
+  {
+    "id": 29747952,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 498
+  },
+  {
+    "id": 29747953,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 403
+  },
+  {
+    "id": 29747954,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 389
+  },
+  {
+    "id": 29747955,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 366
+  },
+  {
+    "id": 29747956,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 123
+  },
+  {
+    "id": 29747957,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 82
+  },
+  {
+    "id": 29747958,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 80
+  },
+  {
+    "id": 29747959,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 79
+  },
+  {
+    "id": 29747960,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 56
+  },
+  {
+    "id": 29747961,
+    "date": "2024-06-23",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 55
+  },
+  {
+    "id": 29698022,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 16405394
+  },
+  {
+    "id": 29698023,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 9045993
+  },
+  {
+    "id": 29698024,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 8186892
+  },
+  {
+    "id": 29698025,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3592788
+  },
+  {
+    "id": 29698026,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1204548
+  },
+  {
+    "id": 29698027,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 287214
+  },
+  {
+    "id": 29698028,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 37693
+  },
+  {
+    "id": 29698029,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1094
+  },
+  {
+    "id": 29698030,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 818
+  },
+  {
+    "id": 29698031,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 643
+  },
+  {
+    "id": 29698032,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 579
+  },
+  {
+    "id": 29698033,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 435
+  },
+  {
+    "id": 29698034,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 413
+  },
+  {
+    "id": 29698035,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 283
+  },
+  {
+    "id": 29698036,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 235
+  },
+  {
+    "id": 29698037,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 188
+  },
+  {
+    "id": 29698038,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 182
+  },
+  {
+    "id": 29698039,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 164
+  },
+  {
+    "id": 29698040,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 84
+  },
+  {
+    "id": 29698041,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 74
+  },
+  {
+    "id": 29698042,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 69
+  },
+  {
+    "id": 29698043,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 61
+  },
+  {
+    "id": 29698044,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 55
+  },
+  {
+    "id": 29698045,
+    "date": "2024-06-22",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 52
+  },
+  {
+    "id": 29634586,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 18594492
+  },
+  {
+    "id": 29634587,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 17878141
+  },
+  {
+    "id": 29634588,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10185189
+  },
+  {
+    "id": 29634589,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4947004
+  },
+  {
+    "id": 29634590,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1362945
+  },
+  {
+    "id": 29634591,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 400619
+  },
+  {
+    "id": 29634592,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 36781
+  },
+  {
+    "id": 29634593,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1045
+  },
+  {
+    "id": 29634594,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 767
+  },
+  {
+    "id": 29634595,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 743
+  },
+  {
+    "id": 29634596,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 658
+  },
+  {
+    "id": 29634597,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 452
+  },
+  {
+    "id": 29634598,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 406
+  },
+  {
+    "id": 29634599,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 344
+  },
+  {
+    "id": 29634600,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 297
+  },
+  {
+    "id": 29634601,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 246
+  },
+  {
+    "id": 29634602,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 243
+  },
+  {
+    "id": 29634603,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 186
+  },
+  {
+    "id": 29634604,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 117
+  },
+  {
+    "id": 29634605,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 112
+  },
+  {
+    "id": 29634606,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 82
+  },
+  {
+    "id": 29634607,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 71
+  },
+  {
+    "id": 29634608,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 68
+  },
+  {
+    "id": 29634609,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 62
+  },
+  {
+    "id": 29634610,
+    "date": "2024-06-21",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 51
+  },
+  {
+    "id": 29565927,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 21184610
+  },
+  {
+    "id": 29565928,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 21102561
+  },
+  {
+    "id": 29565929,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11320139
+  },
+  {
+    "id": 29565930,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5827600
+  },
+  {
+    "id": 29565931,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1474912
+  },
+  {
+    "id": 29565932,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 450037
+  },
+  {
+    "id": 29565933,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 37744
+  },
+  {
+    "id": 29565934,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 1196
+  },
+  {
+    "id": 29565935,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1075
+  },
+  {
+    "id": 29565936,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 801
+  },
+  {
+    "id": 29565937,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 648
+  },
+  {
+    "id": 29565938,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 456
+  },
+  {
+    "id": 29565939,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 364
+  },
+  {
+    "id": 29565940,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 254
+  },
+  {
+    "id": 29565941,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 206
+  },
+  {
+    "id": 29565942,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 158
+  },
+  {
+    "id": 29565943,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 152
+  },
+  {
+    "id": 29565944,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 136
+  },
+  {
+    "id": 29565945,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 83
+  },
+  {
+    "id": 29565946,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 76
+  },
+  {
+    "id": 29565947,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 67
+  },
+  {
+    "id": 29565948,
+    "date": "2024-06-20",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 57
+  },
+  {
+    "id": 29503702,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 18428236
+  },
+  {
+    "id": 29503703,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 16504568
+  },
+  {
+    "id": 29503704,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10670837
+  },
+  {
+    "id": 29503705,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5439581
+  },
+  {
+    "id": 29503706,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1390865
+  },
+  {
+    "id": 29503707,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 417206
+  },
+  {
+    "id": 29503708,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 40215
+  },
+  {
+    "id": 29503709,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1168
+  },
+  {
+    "id": 29503710,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 856
+  },
+  {
+    "id": 29503711,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 804
+  },
+  {
+    "id": 29503712,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 586
+  },
+  {
+    "id": 29503713,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 491
+  },
+  {
+    "id": 29503714,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 368
+  },
+  {
+    "id": 29503715,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 150
+  },
+  {
+    "id": 29503716,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 123
+  },
+  {
+    "id": 29503717,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 110
+  },
+  {
+    "id": 29503718,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 99
+  },
+  {
+    "id": 29503719,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 79
+  },
+  {
+    "id": 29503720,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 69
+  },
+  {
+    "id": 29503721,
+    "date": "2024-06-19",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 51
+  },
+  {
+    "id": 29434547,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22354706
+  },
+  {
+    "id": 29434548,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 20389579
+  },
+  {
+    "id": 29434549,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11040991
+  },
+  {
+    "id": 29434550,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5958596
+  },
+  {
+    "id": 29434551,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1499272
+  },
+  {
+    "id": 29434552,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 470322
+  },
+  {
+    "id": 29434553,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 41266
+  },
+  {
+    "id": 29434554,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 1143
+  },
+  {
+    "id": 29434555,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1113
+  },
+  {
+    "id": 29434556,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 870
+  },
+  {
+    "id": 29434557,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 617
+  },
+  {
+    "id": 29434558,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 488
+  },
+  {
+    "id": 29434559,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 366
+  },
+  {
+    "id": 29434560,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 174
+  },
+  {
+    "id": 29434561,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 161
+  },
+  {
+    "id": 29434562,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 110
+  },
+  {
+    "id": 29434563,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 102
+  },
+  {
+    "id": 29434564,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 84
+  },
+  {
+    "id": 29434565,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 72
+  },
+  {
+    "id": 29434566,
+    "date": "2024-06-18",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 65
+  },
+  {
+    "id": 29365945,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22085694
+  },
+  {
+    "id": 29365946,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 20245210
+  },
+  {
+    "id": 29365947,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11018140
+  },
+  {
+    "id": 29365948,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6197568
+  },
+  {
+    "id": 29365949,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1446620
+  },
+  {
+    "id": 29365950,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 483429
+  },
+  {
+    "id": 29365951,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 40907
+  },
+  {
+    "id": 29365952,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1079
+  },
+  {
+    "id": 29365953,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 1038
+  },
+  {
+    "id": 29365954,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 803
+  },
+  {
+    "id": 29365955,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 586
+  },
+  {
+    "id": 29365956,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 472
+  },
+  {
+    "id": 29365957,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 391
+  },
+  {
+    "id": 29365958,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 267
+  },
+  {
+    "id": 29365959,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 172
+  },
+  {
+    "id": 29365960,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 165
+  },
+  {
+    "id": 29365961,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 131
+  },
+  {
+    "id": 29365962,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 104
+  },
+  {
+    "id": 29365963,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 87
+  },
+  {
+    "id": 29365964,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 82
+  },
+  {
+    "id": 29365965,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 69
+  },
+  {
+    "id": 29365966,
+    "date": "2024-06-17",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Unknown",
+    "visits": 57
+  },
+  {
+    "id": 29318727,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 13541160
+  },
+  {
+    "id": 29318728,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7979946
+  },
+  {
+    "id": 29318729,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 7764590
+  },
+  {
+    "id": 29318730,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3570978
+  },
+  {
+    "id": 29318731,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1251326
+  },
+  {
+    "id": 29318732,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 289325
+  },
+  {
+    "id": 29318733,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 33700
+  },
+  {
+    "id": 29318734,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 851
+  },
+  {
+    "id": 29318735,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 732
+  },
+  {
+    "id": 29318736,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 455
+  },
+  {
+    "id": 29318737,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 387
+  },
+  {
+    "id": 29318738,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 342
+  },
+  {
+    "id": 29318739,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 213
+  },
+  {
+    "id": 29318740,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 120
+  },
+  {
+    "id": 29318741,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 112
+  },
+  {
+    "id": 29318742,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 111
+  },
+  {
+    "id": 29318743,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 81
+  },
+  {
+    "id": 29318744,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 57
+  },
+  {
+    "id": 29318745,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 57
+  },
+  {
+    "id": 29318746,
+    "date": "2024-06-16",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 54
+  },
+  {
+    "id": 29269685,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 16098482
+  },
+  {
+    "id": 29269686,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8861071
+  },
+  {
+    "id": 29269687,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 7832766
+  },
+  {
+    "id": 29269688,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3450962
+  },
+  {
+    "id": 29269689,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1263545
+  },
+  {
+    "id": 29269690,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 276942
+  },
+  {
+    "id": 29269691,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 35431
+  },
+  {
+    "id": 29269692,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 930
+  },
+  {
+    "id": 29269693,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 720
+  },
+  {
+    "id": 29269694,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 485
+  },
+  {
+    "id": 29269695,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 361
+  },
+  {
+    "id": 29269696,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 322
+  },
+  {
+    "id": 29269697,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 192
+  },
+  {
+    "id": 29269698,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 142
+  },
+  {
+    "id": 29269699,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 119
+  },
+  {
+    "id": 29269700,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 72
+  },
+  {
+    "id": 29269701,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 65
+  },
+  {
+    "id": 29269702,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 56
+  },
+  {
+    "id": 29269703,
+    "date": "2024-06-15",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 53
+  },
+  {
+    "id": 29206515,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 19531254
+  },
+  {
+    "id": 29206516,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 17753638
+  },
+  {
+    "id": 29206517,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10077717
+  },
+  {
+    "id": 29206518,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5104787
+  },
+  {
+    "id": 29206519,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1518377
+  },
+  {
+    "id": 29206520,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 438662
+  },
+  {
+    "id": 29206521,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 43291
+  },
+  {
+    "id": 29206522,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 850
+  },
+  {
+    "id": 29206523,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 749
+  },
+  {
+    "id": 29206524,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 564
+  },
+  {
+    "id": 29206525,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 436
+  },
+  {
+    "id": 29206526,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 365
+  },
+  {
+    "id": 29206527,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 352
+  },
+  {
+    "id": 29206528,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 214
+  },
+  {
+    "id": 29206529,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 172
+  },
+  {
+    "id": 29206530,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 153
+  },
+  {
+    "id": 29206531,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 105
+  },
+  {
+    "id": 29206532,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 103
+  },
+  {
+    "id": 29206533,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 88
+  },
+  {
+    "id": 29206534,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 67
+  },
+  {
+    "id": 29206535,
+    "date": "2024-06-14",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 55
+  },
+  {
+    "id": 29138161,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 21287439
+  },
+  {
+    "id": 29138162,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 20895284
+  },
+  {
+    "id": 29138163,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11114537
+  },
+  {
+    "id": 29138164,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5893934
+  },
+  {
+    "id": 29138165,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1416488
+  },
+  {
+    "id": 29138166,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 512334
+  },
+  {
+    "id": 29138167,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 43560
+  },
+  {
+    "id": 29138168,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1006
+  },
+  {
+    "id": 29138169,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 881
+  },
+  {
+    "id": 29138170,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 835
+  },
+  {
+    "id": 29138171,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 561
+  },
+  {
+    "id": 29138172,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 387
+  },
+  {
+    "id": 29138173,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 385
+  },
+  {
+    "id": 29138174,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 192
+  },
+  {
+    "id": 29138175,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 175
+  },
+  {
+    "id": 29138176,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 123
+  },
+  {
+    "id": 29138177,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 116
+  },
+  {
+    "id": 29138178,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 86
+  },
+  {
+    "id": 29138179,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 79
+  },
+  {
+    "id": 29138180,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 67
+  },
+  {
+    "id": 29138181,
+    "date": "2024-06-13",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 55
+  },
+  {
+    "id": 29067862,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 21945312
+  },
+  {
+    "id": 29067863,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 21313979
+  },
+  {
+    "id": 29067864,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10924681
+  },
+  {
+    "id": 29067865,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6183681
+  },
+  {
+    "id": 29067866,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1401644
+  },
+  {
+    "id": 29067867,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 553171
+  },
+  {
+    "id": 29067868,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 61951
+  },
+  {
+    "id": 29067869,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 917
+  },
+  {
+    "id": 29067870,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 778
+  },
+  {
+    "id": 29067871,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 696
+  },
+  {
+    "id": 29067872,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 676
+  },
+  {
+    "id": 29067873,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 439
+  },
+  {
+    "id": 29067874,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 437
+  },
+  {
+    "id": 29067875,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 381
+  },
+  {
+    "id": 29067876,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 378
+  },
+  {
+    "id": 29067877,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 333
+  },
+  {
+    "id": 29067878,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 282
+  },
+  {
+    "id": 29067879,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 240
+  },
+  {
+    "id": 29067880,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 184
+  },
+  {
+    "id": 29067881,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 162
+  },
+  {
+    "id": 29067882,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 135
+  },
+  {
+    "id": 29067883,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 111
+  },
+  {
+    "id": 29067884,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 79
+  },
+  {
+    "id": 29067885,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 78
+  },
+  {
+    "id": 29067886,
+    "date": "2024-06-12",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 55
+  },
+  {
+    "id": 28998115,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22067322
+  },
+  {
+    "id": 28998116,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 20530167
+  },
+  {
+    "id": 28998117,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11165354
+  },
+  {
+    "id": 28998118,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6407477
+  },
+  {
+    "id": 28998119,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1433414
+  },
+  {
+    "id": 28998120,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 615720
+  },
+  {
+    "id": 28998121,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 42324
+  },
+  {
+    "id": 28998122,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 1252
+  },
+  {
+    "id": 28998123,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 991
+  },
+  {
+    "id": 28998124,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 869
+  },
+  {
+    "id": 28998125,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 867
+  },
+  {
+    "id": 28998126,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 789
+  },
+  {
+    "id": 28998127,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 634
+  },
+  {
+    "id": 28998128,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 600
+  },
+  {
+    "id": 28998129,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 567
+  },
+  {
+    "id": 28998130,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 560
+  },
+  {
+    "id": 28998131,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 402
+  },
+  {
+    "id": 28998132,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 336
+  },
+  {
+    "id": 28998133,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 328
+  },
+  {
+    "id": 28998134,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 327
+  },
+  {
+    "id": 28998135,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 182
+  },
+  {
+    "id": 28998136,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 172
+  },
+  {
+    "id": 28998137,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 171
+  },
+  {
+    "id": 28998138,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 136
+  },
+  {
+    "id": 28998139,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 126
+  },
+  {
+    "id": 28998140,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "MOT",
+    "visits": 102
+  },
+  {
+    "id": 28998141,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "LG",
+    "visits": 66
+  },
+  {
+    "id": 28998142,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 63
+  },
+  {
+    "id": 28998143,
+    "date": "2024-06-10",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BeOS",
+    "visits": 61
+  },
+  {
+    "id": 28947966,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 14386745
+  },
+  {
+    "id": 28947967,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 8574514
+  },
+  {
+    "id": 28947968,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8319259
+  },
+  {
+    "id": 28947969,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3984669
+  },
+  {
+    "id": 28947970,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1140661
+  },
+  {
+    "id": 28947971,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 324172
+  },
+  {
+    "id": 28947972,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 33044
+  },
+  {
+    "id": 28947973,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 931
+  },
+  {
+    "id": 28947974,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 866
+  },
+  {
+    "id": 28947975,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 866
+  },
+  {
+    "id": 28947976,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 840
+  },
+  {
+    "id": 28947977,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 605
+  },
+  {
+    "id": 28947978,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 567
+  },
+  {
+    "id": 28947979,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 558
+  },
+  {
+    "id": 28947980,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 516
+  },
+  {
+    "id": 28947981,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 411
+  },
+  {
+    "id": 28947982,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 406
+  },
+  {
+    "id": 28947983,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 340
+  },
+  {
+    "id": 28947984,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 315
+  },
+  {
+    "id": 28947985,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 265
+  },
+  {
+    "id": 28947986,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 183
+  },
+  {
+    "id": 28947987,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 168
+  },
+  {
+    "id": 28947988,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 158
+  },
+  {
+    "id": 28947989,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 126
+  },
+  {
+    "id": 28947990,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "MOT",
+    "visits": 92
+  },
+  {
+    "id": 28947991,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 90
+  },
+  {
+    "id": 28947992,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 66
+  },
+  {
+    "id": 28947993,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "LG",
+    "visits": 60
+  },
+  {
+    "id": 28947994,
+    "date": "2024-06-09",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BeOS",
+    "visits": 56
+  },
+  {
+    "id": 28898164,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 15618921
+  },
+  {
+    "id": 28898165,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8756858
+  },
+  {
+    "id": 28898166,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 8260306
+  },
+  {
+    "id": 28898167,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3518968
+  },
+  {
+    "id": 28898168,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1233487
+  },
+  {
+    "id": 28898169,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 286609
+  },
+  {
+    "id": 28898170,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 56971
+  },
+  {
+    "id": 28898171,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 854
+  },
+  {
+    "id": 28898172,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 724
+  },
+  {
+    "id": 28898173,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 636
+  },
+  {
+    "id": 28898174,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 474
+  },
+  {
+    "id": 28898175,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 402
+  },
+  {
+    "id": 28898176,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 397
+  },
+  {
+    "id": 28898177,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 363
+  },
+  {
+    "id": 28898178,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 314
+  },
+  {
+    "id": 28898179,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 290
+  },
+  {
+    "id": 28898180,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 270
+  },
+  {
+    "id": 28898181,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 242
+  },
+  {
+    "id": 28898182,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 201
+  },
+  {
+    "id": 28898183,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 160
+  },
+  {
+    "id": 28898184,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 99
+  },
+  {
+    "id": 28898185,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 92
+  },
+  {
+    "id": 28898186,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 85
+  },
+  {
+    "id": 28898187,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 81
+  },
+  {
+    "id": 28898188,
+    "date": "2024-06-08",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 53
+  },
+  {
+    "id": 28834726,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 19359345
+  },
+  {
+    "id": 28834727,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 18078393
+  },
+  {
+    "id": 28834728,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10218927
+  },
+  {
+    "id": 28834729,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 5154939
+  },
+  {
+    "id": 28834730,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1480377
+  },
+  {
+    "id": 28834731,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 538107
+  },
+  {
+    "id": 28834732,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 37550
+  },
+  {
+    "id": 28834733,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 1168
+  },
+  {
+    "id": 28834734,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 936
+  },
+  {
+    "id": 28834735,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 820
+  },
+  {
+    "id": 28834736,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 798
+  },
+  {
+    "id": 28834737,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 792
+  },
+  {
+    "id": 28834738,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 758
+  },
+  {
+    "id": 28834739,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 703
+  },
+  {
+    "id": 28834740,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 692
+  },
+  {
+    "id": 28834741,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 574
+  },
+  {
+    "id": 28834742,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 404
+  },
+  {
+    "id": 28834743,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 403
+  },
+  {
+    "id": 28834744,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 393
+  },
+  {
+    "id": 28834745,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 376
+  },
+  {
+    "id": 28834746,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 225
+  },
+  {
+    "id": 28834747,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 207
+  },
+  {
+    "id": 28834748,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 197
+  },
+  {
+    "id": 28834749,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 178
+  },
+  {
+    "id": 28834750,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 124
+  },
+  {
+    "id": 28834751,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "MOT",
+    "visits": 118
+  },
+  {
+    "id": 28834752,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "LG",
+    "visits": 91
+  },
+  {
+    "id": 28834753,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 75
+  },
+  {
+    "id": 28834754,
+    "date": "2024-06-07",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BeOS",
+    "visits": 58
+  },
+  {
+    "id": 28765413,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22222853
+  },
+  {
+    "id": 28765414,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 20625436
+  },
+  {
+    "id": 28765415,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11421627
+  },
+  {
+    "id": 28765416,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6018793
+  },
+  {
+    "id": 28765417,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1580434
+  },
+  {
+    "id": 28765418,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 671348
+  },
+  {
+    "id": 28765419,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 40432
+  },
+  {
+    "id": 28765420,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 2198
+  },
+  {
+    "id": 28765421,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 1196
+  },
+  {
+    "id": 28765422,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1112
+  },
+  {
+    "id": 28765423,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 1025
+  },
+  {
+    "id": 28765424,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 884
+  },
+  {
+    "id": 28765425,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 743
+  },
+  {
+    "id": 28765426,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 680
+  },
+  {
+    "id": 28765427,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 667
+  },
+  {
+    "id": 28765428,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 661
+  },
+  {
+    "id": 28765429,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 483
+  },
+  {
+    "id": 28765430,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 413
+  },
+  {
+    "id": 28765431,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 397
+  },
+  {
+    "id": 28765432,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 287
+  },
+  {
+    "id": 28765433,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 244
+  },
+  {
+    "id": 28765434,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 214
+  },
+  {
+    "id": 28765435,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 184
+  },
+  {
+    "id": 28765436,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 181
+  },
+  {
+    "id": 28765437,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "PalmOS",
+    "visits": 161
+  },
+  {
+    "id": 28765438,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "MOT",
+    "visits": 99
+  },
+  {
+    "id": 28765439,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 3",
+    "visits": 76
+  },
+  {
+    "id": 28765440,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "LG",
+    "visits": 73
+  },
+  {
+    "id": 28765441,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BeOS",
+    "visits": 69
+  },
+  {
+    "id": 28765442,
+    "date": "2024-06-06",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NTT DoCoMo",
+    "visits": 52
+  },
+  {
+    "id": 28694809,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22944405
+  },
+  {
+    "id": 28694810,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 20695648
+  },
+  {
+    "id": 28694811,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 11293135
+  },
+  {
+    "id": 28694812,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6344157
+  },
+  {
+    "id": 28694813,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1384366
+  },
+  {
+    "id": 28694814,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 706757
+  },
+  {
+    "id": 28694815,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 40195
+  },
+  {
+    "id": 28694816,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 4403
+  },
+  {
+    "id": 28694817,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1384
+  },
+  {
+    "id": 28694818,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 941
+  },
+  {
+    "id": 28694819,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 670
+  },
+  {
+    "id": 28694820,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 501
+  },
+  {
+    "id": 28694821,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 400
+  },
+  {
+    "id": 28694822,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 312
+  },
+  {
+    "id": 28694823,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 248
+  },
+  {
+    "id": 28694824,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 245
+  },
+  {
+    "id": 28694825,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 175
+  },
+  {
+    "id": 28694826,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 146
+  },
+  {
+    "id": 28694827,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 136
+  },
+  {
+    "id": 28694828,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 132
+  },
+  {
+    "id": 28694829,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 130
+  },
+  {
+    "id": 28694830,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 113
+  },
+  {
+    "id": 28694831,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 63
+  },
+  {
+    "id": 28694832,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 56
+  },
+  {
+    "id": 28694833,
+    "date": "2024-06-05",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 53
+  },
+  {
+    "id": 28623472,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22892453
+  },
+  {
+    "id": 28623473,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 21692617
+  },
+  {
+    "id": 28623474,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10691883
+  },
+  {
+    "id": 28623475,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6420419
+  },
+  {
+    "id": 28623476,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1449147
+  },
+  {
+    "id": 28623477,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 743387
+  },
+  {
+    "id": 28623478,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 56344
+  },
+  {
+    "id": 28623479,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 3785
+  },
+  {
+    "id": 28623480,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1007
+  },
+  {
+    "id": 28623481,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 889
+  },
+  {
+    "id": 28623482,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 548
+  },
+  {
+    "id": 28623483,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 468
+  },
+  {
+    "id": 28623484,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 378
+  },
+  {
+    "id": 28623485,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Xbox",
+    "visits": 270
+  },
+  {
+    "id": 28623486,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 241
+  },
+  {
+    "id": 28623487,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 122
+  },
+  {
+    "id": 28623488,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 120
+  },
+  {
+    "id": 28623489,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 119
+  },
+  {
+    "id": 28623490,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 92
+  },
+  {
+    "id": 28623491,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 91
+  },
+  {
+    "id": 28623492,
+    "date": "2024-06-04",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 53
+  },
+  {
+    "id": 28553837,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 22756236
+  },
+  {
+    "id": 28553838,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 21637690
+  },
+  {
+    "id": 28553839,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 10997947
+  },
+  {
+    "id": 28553840,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 6497247
+  },
+  {
+    "id": 28553841,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1361315
+  },
+  {
+    "id": 28553842,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 803094
+  },
+  {
+    "id": 28553843,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 42287
+  },
+  {
+    "id": 28553844,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 3947
+  },
+  {
+    "id": 28553845,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 921
+  },
+  {
+    "id": 28553846,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 884
+  },
+  {
+    "id": 28553847,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 624
+  },
+  {
+    "id": 28553848,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 482
+  },
+  {
+    "id": 28553849,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 422
+  },
+  {
+    "id": 28553850,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 380
+  },
+  {
+    "id": 28553851,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 369
+  },
+  {
+    "id": 28553852,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 260
+  },
+  {
+    "id": 28553853,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 250
+  },
+  {
+    "id": 28553854,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 200
+  },
+  {
+    "id": 28553855,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 175
+  },
+  {
+    "id": 28553856,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 143
+  },
+  {
+    "id": 28553857,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 127
+  },
+  {
+    "id": 28553858,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SunOS",
+    "visits": 76
+  },
+  {
+    "id": 28553859,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Samsung",
+    "visits": 71
+  },
+  {
+    "id": 28553860,
+    "date": "2024-06-03",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Nokia",
+    "visits": 58
+  },
+  {
+    "id": 28503816,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 14767650
+  },
+  {
+    "id": 28503817,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 9097625
+  },
+  {
+    "id": 28503818,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8367825
+  },
+  {
+    "id": 28503819,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 4071745
+  },
+  {
+    "id": 28503820,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 943535
+  },
+  {
+    "id": 28503821,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 353420
+  },
+  {
+    "id": 28503822,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 35706
+  },
+  {
+    "id": 28503823,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 2799
+  },
+  {
+    "id": 28503824,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1004
+  },
+  {
+    "id": 28503825,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 705
+  },
+  {
+    "id": 28503826,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 487
+  },
+  {
+    "id": 28503827,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 426
+  },
+  {
+    "id": 28503828,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 390
+  },
+  {
+    "id": 28503829,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 195
+  },
+  {
+    "id": 28503830,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 157
+  },
+  {
+    "id": 28503831,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 133
+  },
+  {
+    "id": 28503832,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 131
+  },
+  {
+    "id": 28503833,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 127
+  },
+  {
+    "id": 28503834,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 94
+  },
+  {
+    "id": 28503835,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 78
+  },
+  {
+    "id": 28503836,
+    "date": "2024-06-02",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 73
+  },
+  {
+    "id": 28453604,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "iOS",
+    "visits": 16582399
+  },
+  {
+    "id": 28453605,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Android",
+    "visits": 8995205
+  },
+  {
+    "id": 28453606,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows",
+    "visits": 8373119
+  },
+  {
+    "id": 28453607,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Macintosh",
+    "visits": 3731738
+  },
+  {
+    "id": 28453608,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Linux",
+    "visits": 1036565
+  },
+  {
+    "id": 28453609,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Chrome OS",
+    "visits": 299757
+  },
+  {
+    "id": 28453610,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "(not set)",
+    "visits": 38008
+  },
+  {
+    "id": 28453611,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Win32",
+    "visits": 3492
+  },
+  {
+    "id": 28453612,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Tizen",
+    "visits": 1462
+  },
+  {
+    "id": 28453613,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Fuchsia",
+    "visits": 703
+  },
+  {
+    "id": 28453614,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OS/2",
+    "visits": 553
+  },
+  {
+    "id": 28453615,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Playstation 4",
+    "visits": 377
+  },
+  {
+    "id": 28453616,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Firefox OS",
+    "visits": 370
+  },
+  {
+    "id": 28453617,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "FreeBSD",
+    "visits": 274
+  },
+  {
+    "id": 28453618,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "SymbianOS",
+    "visits": 264
+  },
+  {
+    "id": 28453619,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "BlackBerry",
+    "visits": 187
+  },
+  {
+    "id": 28453620,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Windows Phone",
+    "visits": 148
+  },
+  {
+    "id": 28453621,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "OpenBSD",
+    "visits": 140
+  },
+  {
+    "id": 28453622,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "Sony",
+    "visits": 137
+  },
+  {
+    "id": 28453623,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "NetBSD",
+    "visits": 109
+  },
+  {
+    "id": 28453624,
+    "date": "2024-06-01",
+    "report_name": "os",
+    "report_agency": null,
+    "os": "UNIX",
+    "visits": 108
+  }
+]
