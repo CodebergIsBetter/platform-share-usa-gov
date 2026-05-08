@@ -1,0 +1,46 @@
+name: Monthly OS Data Update
+
+on:
+  schedule:
+    # Run on the 2nd of every month at 06:00 UTC
+    # (gives the API a day to finalize the previous month's data)
+    - cron: '0 6 2 * *'
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch new OS data
+        env:
+          DAP_API_KEY: ${{ secrets.DAP_API_KEY }}
+        run: python data/fetch_os_data.py
+
+      - name: Run Linux % analysis
+        run: python analysis/linux_daily_pct.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update OS data $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
