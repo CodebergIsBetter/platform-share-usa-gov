@@ -1,24 +1,40 @@
 {
-  "include": [
-    "Chrome OS",
-    "FreeBSD",
-    "Linux",
-    "Linux armv8l",
-    "Linux x86_64",
-    "Mac OS",
-    "MacOS",
-    "Macintosh",
-    "NetBSD",
-    "OpenBSD",
-    "UNIX",
-    "Win32",
-    "Windows"
-  ],
+  "desktop": {
+    "WINDOWS": {
+      "names": ["Windows", "Win32"],
+      "color": "#0078d4"
+    },
+    "MAC": {
+      "names": ["Mac OS", "MacOS", "Macintosh"],
+      "color": "#8e8e93"
+    },
+    "LINUX": {
+      "names": ["Linux", "Linux armv8l", "Linux x86_64"],
+      "color": "#f5a623"
+    },
+    "CHROME OS": {
+      "names": ["Chrome OS"],
+      "color": "#3ddc84"
+    },
+    "BSD": {
+      "names": ["FreeBSD", "NetBSD", "OpenBSD"],
+      "color": "#d0021b"
+    }
+  },
+  "mobile": {
+    "IOS": {
+      "names": ["iOS"],
+      "color": "#8e8e93"
+    },
+    "ANDROID": {
+      "names": ["Android"],
+      "color": "#3ddc84"
+    }
+  },
   "exclude": [
     "",
     "(not set)",
     "(other)",
-    "Android",
     "BeOS",
     "BlackBerry",
     "Firefox OS",
@@ -43,12 +59,12 @@
     "SunOS",
     "SymbianOS",
     "Tizen",
+    "UNIX",
     "Unknown",
     "Vodafone",
     "Windows Phone",
     "Xbox",
     "desktop",
-    "iOS",
     "notWindows"
   ]
 }

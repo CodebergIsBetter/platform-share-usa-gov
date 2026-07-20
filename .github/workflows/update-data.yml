@@ -1,4 +1,4 @@
-name: Monthly OS Data Update
+name: Monthly Platform Data Update
 
 on:
   schedule:
@@ -23,15 +23,15 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: Fetch new OS data
         env:
           DAP_API_KEY: ${{ secrets.DAP_API_KEY }}
         run: python data/fetch_os_data.py
 
-      - name: Run Linux % analysis
-        run: python analysis/linux_daily_pct.py
+      - name: Generate README and graphs
+        run: python analysis/generate_readme.py
 
       - name: Commit and push changes
         run: |
@@ -41,6 +41,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update OS data $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "chore: update platform data and README $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
